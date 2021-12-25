@@ -1,0 +1,9 @@
+_data/
+.vscode/
+cmd/car-scrape/_data
+cmd/car-scrape/images
+*.db
+*.prof
+images/
+images_bak/
+*.jpg
